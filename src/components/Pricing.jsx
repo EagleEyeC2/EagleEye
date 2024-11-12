@@ -48,7 +48,7 @@ const Pricing = () => {
               />
             </div>
             <h3 className="text-2xl font-bold mb-2">Contact Representative</h3>
-            <p className="text-gray-400 mb-6 text-center">Official GosRat Sales Representative</p>
+            <p className="text-gray-400 mb-6 text-center">Official EagleEye Sales Representative</p>
             <div className="flex items-center space-x-2 mb-8">
               <FaTelegram className="text-2xl text-red-600" />
               <span className="font-medium">https://t.me/EagleEyeC2</span>

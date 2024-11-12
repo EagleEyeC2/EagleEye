@@ -5,22 +5,22 @@ const Videos = () => {
   const tutorials = [
     {
       title: "Installation Guide",
-      description: "Step-by-step tutorial on installing GosRat on your system",
+      description: "Step-by-step tutorial on installing EagleEye on your system",
       duration: "15:30"
     },
     {
       title: "Server Setup",
-      description: "Complete guide to setting up your GosRat server",
+      description: "Complete guide to setting up your EagleEye server",
       duration: "12:45"
     },
     {
       title: "Basic Operations",
-      description: "Learn the fundamental operations of GosRat",
+      description: "Learn the fundamental operations of EagleEye",
       duration: "20:15"
     },
     {
       title: "Advanced Features",
-      description: "Deep dive into advanced GosRat features",
+      description: "Deep dive into advanced EagleEye features",
       duration: "25:00"
     }
   ];
